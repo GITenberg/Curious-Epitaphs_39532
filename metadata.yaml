@@ -1,0 +1,31 @@
+_repo: Curious-Epitaphs_39532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Andrews, William
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '8969'
+    url: http://www.gutenberg.org/2009/agents/8969
+description: ''
+gutenberg_issued: '2012-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epitaphs -- Great Britain'
+- !lcc 'PN'
+tableOfContents: Epitaphs on tradesmen -- Typographical epitaphs -- Good and faithful
+  servants -- Epitaphs on soldiers and sailors -- Epitaphs on musicians and actors
+  -- Epitaphs on sportsmen -- Bacchanalian epitaphs -- Epitaphs on parish clerks and
+  sextons -- Punning epitaphs -- Manxland epitaphs -- Epitaphs on notable persons
+  -- Miscellaneous epitaphs.
+title: Curious Epitaphs
+url: http://www.gutenberg.org/ebooks/39532
